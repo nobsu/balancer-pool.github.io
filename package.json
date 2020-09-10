@@ -1,7 +1,7 @@
 {
   "name": "pool-management-vue",
-  "homepage": "https://nobsu.github.io/balancer-pool.github.io",
   "description": "hello",
+  "homepage": "https://nobsu.github.io/balancer-pool.github.io",
   "version": "0.1.0",
   "repository": "balancer-labs/pool-management-vue",
   "license": "GPL-3.0",

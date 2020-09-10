@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  publicPath: process.env.DEPLOY ? '././' : '/',
+  publicPath: process.env.DEPLOY ? '././' : '/balancer-pool.github.io/',
   pluginOptions: {
     express: {
       shouldServeApp: true,
