@@ -12,7 +12,6 @@
     "express": "vue-cli-service express:watch",
     "express:run": "vue-cli-service express:run",
     "start": "vue-cli-service express:run",
-    // "deploy": "ipfs-deploy dist -p pinata",
     "deploy": "gh-pages -d build",
     "generate-icons": "icon-font-generator src/assets/fonts/icons/*.svg -o src/assets/fonts --name iconfont --html false"
   },
